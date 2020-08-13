@@ -1,6 +1,6 @@
 ---
 title: Welcome to CYBERAAS
-subtitle: Cybersecurity as a Service for Any-Size Enterprises
+subtitle: Cybersecurity as a Service for Small and Medium-sized Enterprises
 image: img/home-banner.jpg
 blurb:
   heading: Why Kaldi?
