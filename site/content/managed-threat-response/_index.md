@@ -1,6 +1,6 @@
 ---
 title: Managed Threat Response
-type: products
+# type: products
 image: /img/products-jumbotron.jpg
 heading: How do you response to a cyber attack such as ransomware?
 description: >-
