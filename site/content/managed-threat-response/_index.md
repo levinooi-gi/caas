@@ -15,6 +15,4 @@ main:
     1. Priced for SME, $9.80 per PC monthly. No contract.
     2. It's a Managed Service. You don't have to do anything.
     3. Save your time and sanity from having to go through a cyber attack (again?).
-
-
-
+---
