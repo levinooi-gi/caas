@@ -1,7 +1,7 @@
 ---
-title: Test
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Welcome to CYBERAAS
+subtitle: Cybersecurity as a Service for Any-Size Enterprises
+image: img/home-banner.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
