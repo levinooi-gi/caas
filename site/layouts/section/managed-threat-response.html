@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
+{{ partial "mtr" .Params.intro }}
 
 
 {{ with .Params.main }}
@@ -10,5 +10,12 @@
   <div class="mw6 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
+    <ol>
+        <li>Priced for SME, $9.80 per PC monthly. No contract.</li>
+        <li>It's a Managed Service. You don't have to do anything.</li>
+        <li>Save your time and sanity from having to go through a cyber attack (again?).</li>
+    </ol>
   </div>
 </div>
+
+{{ end }}
