@@ -38,7 +38,14 @@
 			<div>
 				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "https://www.linkedin.com/company/cyberaas" "svg" "icons-linkedin") }}
+                    <li class="dib ph2 raise">
+                    <a href="https://www.linkedin.com/company/cyberaas" class="link bg-white black db relative br-100 pa2" target="_blank">
+                        <svg width="16px" height="16px" class="db">
+                        <use xlink:href="/img/social-linkedin.svg"></use>
+                        </svg>
+                    </a>
+                    </li>
+					<!-- {{ partial "social-icon" (dict "link" "https://www.linkedin.com/company/cyberaas" "svg" "icons-linkedin") }} -->
 					<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }} -->
