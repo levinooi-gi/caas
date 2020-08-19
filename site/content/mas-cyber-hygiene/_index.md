@@ -1,7 +1,7 @@
 ---
 title: MAS Cyber Hygiene
 # type: managed-threat-response
-image: /img/products-jumbotron.jpg
+image: /img/cyberaas-home-banner-hats.jpg
 intro:
   heading: MAS Cyber Hygiene Compliance Package
   description: >

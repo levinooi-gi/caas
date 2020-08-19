@@ -1,7 +1,7 @@
 ---
 title: Virtual Data Protection Officer Service ("vDPO")
 # type: managed-threat-response
-image: /img/products-jumbotron.jpg
+image: /img/cyberaas-home-banner-hats.jpg
 intro:
   heading: DPO as a Service
   description: >
