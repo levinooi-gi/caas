@@ -16,18 +16,12 @@
         <li>DPO Appointment. Our data protection and PDPA expert is officially registered with ACRA and PDPC to be your DPO.</li>
     </ol>
   </div>
+  <div class="tc">
+      <a href="https://calendar.frontapp.com/l/JustinOoi/virtual-dpo-web" class="btn raise" target="_blank">Schedule Zoom meeting</a>
+    </div>
 </div>
 
 {{ end }}
-
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
-
-<!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
 {{ partial "table" .Params.pricing }}
 
