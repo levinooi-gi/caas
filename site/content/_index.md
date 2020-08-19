@@ -1,7 +1,7 @@
 ---
 title: Welcome to CYBERAAS
 subtitle: Cybersecurity as a Service for Small and Medium-sized Enterprises
-image: img/icons-linkedin.svg
+image: img/cyberaas-home-banner-hats.jpg
 blurb:
   heading: Our Services
   text: .
