@@ -1,7 +1,7 @@
 ---
 title: Virtual CISO Service ("vCISO")
 # type: managed-threat-response
-image: /img/cyberaas-home-banner-hats.jpg
+image: /img/cyberaas-home-banner-earth.jpg
 intro:
   heading: CISO as a Service
   description: >
