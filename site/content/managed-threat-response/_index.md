@@ -1,6 +1,6 @@
 ---
 title: Managed Threat Response
-type: managed-threat-response
+# type: managed-threat-response
 image: /img/cyberaas-home-banner-earth.jpg
 intro:
   heading: How do you response to a cyber attack such as ransomware?

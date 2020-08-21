@@ -25,29 +25,34 @@
 	<!-- Open Graph -->
 	<meta property="og:type" content="website">
 	{{ if eq .URL "/managed-threat-response/" }}
+    <meta name="title" property="og:title" content="Managed Threat Response Service | CYBERAAS">
     <meta property="og:title" content="Managed Threat Response Service | CYBERAAS">
     <meta property="og:description" content="Outsource your cybersecurity threats at $9.80 per PC monthly to our 24/7 team of security experts. No contract. We will proactively monitor for any malicious activities, remotely remediate the attack and report to you.">
     <meta name="description" content="Outsource your cybersecurity threats at $9.80 per PC monthly to our 24/7 team of security experts. No contract. We will proactively monitor for any malicious activities, remotely remediate the attack and report to you.">
     {{ else if eq .URL "/mas-cyber-hygiene/" }}
+    <meta name="title" property="og:title" content="MAS Cyber Hygiene | CYBERAAS">
     <meta property="og:title" content="MAS Cyber Hygiene | CYBERAAS">
     <meta property="og:description" content="Comply to Monetary Authority of Singapore (MAS) Cyber Hygiene from $9,800 today! Proven and most cost-effective package in the market.">
     <meta name="description" content="Comply to Monetary Authority of Singapore (MAS) Cyber Hygiene from $9,800 today! Proven and most cost-effective package in the market.">
     {{ else if eq .URL "/data-protection-officer-as-a-service/" }}
+    <meta name="title" property="og:title" content="Data Protection Officer as a Service | CYBERAAS">
     <meta property="og:title" content="Data Protection Officer as a Service | CYBERAAS">
     <meta property="og:description" content="Our DPO service is specifically designed for whose SME that require minimal compliance to PDPA but are unable to hire a DPO themselves, either due to business and financial constraints or the acute shortage of skilled executives.">
     <meta name="description" content="Our DPO service is specifically designed for whose SME that require minimal compliance to PDPA but are unable to hire a DPO themselves, either due to business and financial constraints or the acute shortage of skilled executives.">
     {{ else if eq .URL "/ciso-as-a-service" }}
+    <meta name="title" property="og:title" content="CISO as a Service | CYBERAAS">
     <meta property="og:title" content="CISO as a Service | CYBERAAS">
     <meta property="og:description" content="Our CISO service is uniquely crafted for those SME that require access to C-level experienced information security professionals but are unable to hire one themselves, either due to business and financial constraints or the acute shortage of skilled executives.">
     <meta name="description" content="Our CISO service is uniquely crafted for those SME that require access to C-level experienced information security professionals but are unable to hire one themselves, either due to business and financial constraints or the acute shortage of skilled executives.">
     {{ else }}
+    <meta name="title" property="og:title" content="CYBERAAS | Cybersecurity as a Service for SME">
     <meta property="og:title" content="CYBERAAS | Cybersecurity as a Service for SME">
     <meta property="og:description" content="Priced for SME. MAS Cyber Hygiene. Data Protection Officer as a Service. CISO as a Service. Managed Threat Response. Cybersecurity Awareness Training. Application Security Testing.">
     <meta name="description" content="Priced for SME. MAS Cyber Hygiene. Data Protection Officer as a Service. CISO as a Service. Managed Threat Response. Cybersecurity Awareness Training. Application Security Testing.">
     {{ end }}
 	<meta property="og:url" content="/">
-    <meta name="image" property="og:image" content="/img/og-image.jpg">
-	<meta property="og:image" content="/img/og-image.jpg">
+    <meta name="image" property="og:image" content="https://cyberaas.io/img/og-image.jpg">
+	<meta property="og:image" content="https://cyberaas.io/img/og-image.jpg">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
