@@ -1,5 +1,5 @@
 ---
-title: Virtual Data Protection Officer Service ("vDPO")
+title: Data Protection Officer as a Service
 # type: managed-threat-response
 image: /img/cyberaas-home-banner-earth.jpg
 intro:
