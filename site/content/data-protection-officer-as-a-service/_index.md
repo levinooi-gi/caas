@@ -7,5 +7,5 @@ intro:
   description: >
     Under Personal Data Protection Act ("PDPA"), all Singapore organizations, including sole proprietors and non-profit organizations, must appoint a Data Protection Officer ("DPO"). Failing to do so is a legal offense; the financial penalties ranging from $5,000 to $20,000 based on past enforcement cases by Personal Data Protection Commission Singapore ("PDPC").
 main:
-  heading: Benefits
+  heading: Values
 ---
