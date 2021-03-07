@@ -6,8 +6,8 @@ blurb:
   heading: Our Services
   text: .
 intro:
-  heading: Managed Threat Response Service ("MTR")
-  text: Outsource your cybersecurity threats at $9.80 per PC monthly. No contract.
+  heading: Managed Detection & Remediation Service
+  text: Outsource your cybersecurity threats to our 24/7 team of security experts.
 products: []
 values:
   heading: Our values
